@@ -53,7 +53,7 @@ Here are some quick examples:
 
 Or you can quickly embed a piece of code as follows:
 
-```
+```jsx
 const ExampleCode = () => {
   return <div> .... </div>;
 };
